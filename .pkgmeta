@@ -1,0 +1,8 @@
+package-as: DataStore_Currencies
+
+move-folders:
+ DataStore_Currencies/DataStore_Currencies: DataStore_Currencies
+
+ignore:
+ - LICENCE.md
+ - README.md

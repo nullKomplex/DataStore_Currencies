@@ -11,3 +11,4 @@
 ## X-Curse-Project-ID: 20207
 
 DataStore_Currencies.lua
+
